@@ -1,0 +1,24 @@
+/* I got this code from ChatGPT by asking for an example CSS file */
+
+/* styles.css */
+
+/* Apply styles to the body element */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the heading element */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* Style the paragraph elements */
+p {
+    color: #666;
+    line-height: 1.5;
+    margin: 0 20px;
+}
